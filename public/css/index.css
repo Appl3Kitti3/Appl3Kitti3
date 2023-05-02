@@ -1,0 +1,22 @@
+.main {
+    display: grid;
+    grid-template-columns: 5vw 55vw;
+    grid-template-rows: 10vh;
+}
+
+#title {
+    grid-column: 2 / span 1;
+}
+
+.teddyMessageToHimself {
+    grid-column:  2 / span 1;
+    border: 10px double;
+    text-indent: 20px;
+    margin-top: 2%;
+}
+
+.teddyMessageToHimself ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
