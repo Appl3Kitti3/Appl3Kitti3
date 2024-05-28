@@ -1,14 +1,4 @@
-<style>
-  .title
-  {
-    color: blue;
-  }
 
-  .sub-title
-  {
-    color: yellow;
-  }
-</style>
 <h1>I am known as<span class="title">Teddy D.</span></h1>
 <h2>My aliases are <span class="sub-title">Gabby (as GabbyRiel) and Stardyst (SRV) </span></h2>
 <h4>Lorem Ipsum</h4>
