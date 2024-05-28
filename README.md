@@ -1,9 +1,17 @@
 
 <h1>I am known as <span>Teddy D.</span></h1>
 <h2>My aliases are <span>Gabby (as GabbyRiel) and Stardyst (SRV) </span></h2>
-<h4>Lorem Ipsum</h4>
-- 👋 Hi, I’m Teddy
-- 👀 Fan of Java and C++
+<i>Fan of Java and C++</i>
+
+<!-- 
+<div>
+  <h3>Some projects I have in mind</h3>
+  <ul>
+    <li>Unity Game</li>
+  </ul>  
+</div>
+-->
+
 
 
 
