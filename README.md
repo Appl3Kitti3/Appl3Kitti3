@@ -3,16 +3,18 @@
 <h2>My aliases are <span>Gabby (as GabbyRiel) and Stardyst (SRV) </span></h2>
 <i>Fan of Java and C++</i>
 
-<!-- 
 <div>
-  <h3>Some projects I have in mind</h3>
+  <h3>I am also something else other than a programmer!</h3>
+
+  <p><strong>Here are my medias!</strong></p>
   <ul>
-    <li>Unity Game</li>
+    <li>
+      Instagram
+      <br>
+      <small>https://www.instagram.com/gabbytheriel/</small>
+    </li>
   </ul>  
 </div>
--->
-
-
 
 
 <!---
