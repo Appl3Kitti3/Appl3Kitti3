@@ -13,6 +13,27 @@
       <br>
       <small>https://www.instagram.com/gabbytheriel/</small>
     </li>
+    <li>
+      Twitch
+      <br>
+      <small>https://www.twitch.tv/gabbyriel</small>
+    </li>
+    <li>
+      Music Artist Link
+      <br>
+      <small>https://open.spotify.com/artist/7ovsRRZy69o7KWGbEbaUnz?si=EX87O3mfTTOz-l7HPY5imw</small>
+    </li>
+    </li>
+    <li>
+      TikTok
+      <br>
+      <small>https://www.tiktok.com/@dagabbyriel</small>
+    </li>
+    <li>
+      YouTube
+      <br>
+      <small>https://www.youtube.com/c/GabbyTheRiel</small>
+    </li>
   </ul>  
 </div>
 
