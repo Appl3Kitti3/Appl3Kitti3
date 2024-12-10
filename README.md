@@ -1,6 +1,8 @@
 
 <h1>I am known as <span>Teddy D.</span></h1>
 <h2>My aliases are <span>Gabby (as GabbyRiel) and Stardyst (SRV) </span></h2>
+<h3>Full-Stack Developer with ReactJS and C#</h3>
+
 <i>Fan of Java and C++</i>
 
 <div>
